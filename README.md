@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Joshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript, Python , Blockchain**
+- 🌱 I’m currently learning **Javascript, Python , data science**
 
 - 📫 How to reach me **harshkutch@gmail.com**
 
