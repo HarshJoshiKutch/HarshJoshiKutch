@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript, Python , data science**
 
-- 📫 How to reach me **harshkutch@gmail.com**
+- 📫 How to reach me **joshiharshshaileshbhai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
